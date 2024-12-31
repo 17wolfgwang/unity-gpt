@@ -1,5 +1,7 @@
 # Unity x ChatGPT: Real-Time Chat System with a 3D NPC
 
+![Dec-30-2024 22-39-35](https://github.com/user-attachments/assets/792b9598-a123-4e2f-8290-7836359bbc09)
+
 This project demonstrates how to create a 3D NPC avatar in Unity and integrate OpenAI's ChatGPT API for real-time conversations. It covers the setup of the NPC, connecting the ChatGPT API, and enabling interaction through a chat UI.
 
 ---
